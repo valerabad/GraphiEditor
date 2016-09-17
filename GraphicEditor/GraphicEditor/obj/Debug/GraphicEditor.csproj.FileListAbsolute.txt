@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\work\PFSOFT\GraphicEditor\GraphicEditor\obj\Debug\GraphicEditor.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\work\PFSOFT\GraphicEditor\GraphicEditor\obj\Debug\GraphicEditor.Form1.resources
+C:\Users\User\Desktop\work\PFSOFT\GraphicEditor\GraphicEditor\obj\Debug\GraphicEditor.Properties.Resources.resources
+C:\Users\User\Desktop\work\PFSOFT\GraphicEditor\GraphicEditor\obj\Debug\GraphicEditor.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\work\PFSOFT\GraphicEditor\GraphicEditor\bin\Debug\GraphicEditor.exe
+C:\Users\User\Desktop\work\PFSOFT\GraphicEditor\GraphicEditor\bin\Debug\GraphicEditor.pdb
+C:\Users\User\Desktop\work\PFSOFT\GraphicEditor\GraphicEditor\obj\Debug\GraphicEditor.exe
+C:\Users\User\Desktop\work\PFSOFT\GraphicEditor\GraphicEditor\obj\Debug\GraphicEditor.pdb
+C:\Users\User\Desktop\work\PFSOFT\GraphicEditor\GraphicEditor\bin\Debug\Figures.BL.dll
+C:\Users\User\Desktop\work\PFSOFT\GraphicEditor\GraphicEditor\bin\Debug\Figures.BL.pdb

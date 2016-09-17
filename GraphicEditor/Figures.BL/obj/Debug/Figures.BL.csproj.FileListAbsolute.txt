@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\work\PFSOFT\GraphicEditor\Figures.BL\bin\Debug\Figures.BL.dll
+C:\Users\User\Desktop\work\PFSOFT\GraphicEditor\Figures.BL\bin\Debug\Figures.BL.pdb
+C:\Users\User\Desktop\work\PFSOFT\GraphicEditor\Figures.BL\obj\Debug\Figures.BL.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\work\PFSOFT\GraphicEditor\Figures.BL\obj\Debug\Figures.BL.dll
+C:\Users\User\Desktop\work\PFSOFT\GraphicEditor\Figures.BL\obj\Debug\Figures.BL.pdb
